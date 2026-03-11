@@ -13,8 +13,7 @@
 ## 📌 Featured Projects
 
 * 🎓 **Skillytics** – Machine learning system grouping students based on their performance.
-* 🔐 **Network Security Traffic Analyzer** – Packet analysis tool detecting DoS and suspicious traffic
-* 🏦 **ATM Management System** – Java-based banking simulation with Tomcat and MySQL
+* 🏦 **RedeemMe** – Reward Management System earning reward with satisfaction.
 
 ## 📫 Contact
 
