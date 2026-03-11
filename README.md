@@ -8,7 +8,7 @@
 * Languages: Python, Java, SQL
 * Frameworks: Laravel, Flask
 * Databases: PostgreSQL, MySQL, SQLite, MongoDB
-* Tools: Git, Linux
+* Tools: Git, WSL, Linux
 
 ## 📌 Featured Projects
 
